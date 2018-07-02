@@ -5,6 +5,8 @@
   "main": "server.js",
   "scripts": {
     "essential": "nodemon server.js",
+    "copy": "",
+    "build": "tsc",
     "start": " node server.js"
   },
   "repository": {
