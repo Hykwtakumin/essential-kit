@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ichtrojan/essential-kit.git"
+    "url": "git+https://github.com/Hykwtakumin/essential-kit"
   },
   "author": "Michael Okoh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ichtrojan/essential-kit/issues"
+    "url": "https://github.com/Hykwtakumin/essential-kit/issues"
   },
-  "homepage": "https://github.com/ichtrojan/essential-kit#readme",
+  "homepage": "https://github.com/Hykwtakumin/essential-kit#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "connect-flash": "^0.1.1",
