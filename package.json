@@ -6,7 +6,7 @@
   "scripts": {
     "essential": "nodemon server.js",
     "copy": "",
-    "build": "tsc",
+    "build": "npm install && tsc",
     "start": " node server.js"
   },
   "repository": {

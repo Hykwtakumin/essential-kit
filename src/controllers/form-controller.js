@@ -1,6 +1,8 @@
 // Require mongoose
 let mongoose = require('mongoose')
 let User = require('../models/form')
+let form = require('../models/form')
+let Detail = require('../models/form')
 
 // Save details
 exports.save = (req, res, next) => {
@@ -11,7 +13,7 @@ exports.save = (req, res, next) => {
   })
 
   // Save Data
-  form.save()
+  form.save();
 
   // Redirect back to form
   res.redirect('/form')
